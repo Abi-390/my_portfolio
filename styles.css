@@ -144,12 +144,15 @@ header {
   display: grid;
   gap: 2rem;
   overflow: hidden;
+  background-color: white;
 }
 
 .header__image img {
   max-width: 350px;
   margin-inline: auto;
   margin-top: 2rem;
+  border-radius: 50%;
+  
 }
 
 .header__content h2 {
